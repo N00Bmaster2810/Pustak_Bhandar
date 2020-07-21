@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pustak Bhandar</string>
+    <string name="search">SEARCH</string>
+    <string name="written_by">Written By:</string>
+    <string name="published_in">Published In:</string>
+    <string name="image">image</string>
+    <string name="no_internet_connection">No Intenet Connection</string>
+    <string name="no_book">No Books Found</string>
+    <string name="enter_your_search_text">Enter your search text</string>
+    <string name="thumbnail">thumbnail</string>
+</resources>
